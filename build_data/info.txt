@@ -1,0 +1,5 @@
+Construcion de un csv completo a partir de los archivos originales.
+
+Se cambia el nombre de los campos. Para modificar estos nombres se modifica la variable 'columns_name'.
+
+TODO: Cambiar también el nombre de las posibles clases
